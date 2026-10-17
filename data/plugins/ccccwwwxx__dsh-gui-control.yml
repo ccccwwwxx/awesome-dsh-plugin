@@ -2,6 +2,6 @@ url: https://github.com/ccccwwwxx/dsh-gui-control
 name: ccccwwwxx/dsh-gui-control
 category: dev
 description:
-  en: 'Adds a hard refresh and a host restart to the web GUI: two sidebar entries plus a settings panel showing the host version, pid and uptime. The refresh clears CacheStorage and service workers before reloading the page; the restart goes through the DSH Desktop restart bridge after a two-step confirmation, and is disabled outside DSH Desktop.'
-  zh: '在 Web GUI 里加入「强刷界面」和「重启 Harness」：侧边栏两个入口，另有设置页区块显示 Host 版本、pid 与运行时长。强刷先清 CacheStorage 与 Service Worker 再整页重载；重启带两步确认，经 DSH Desktop 的重启桥执行，非桌面端禁用。'
+  en: 'Adds a hard refresh and a host restart to the web GUI: two icon buttons in the session header, left of the shipped utilities, two sidebar entries, and a settings panel showing the host version, pid and uptime. The refresh clears CacheStorage and service workers before reloading the page; the restart goes through the DSH Desktop restart bridge after a two-step confirmation, and is disabled outside DSH Desktop.'
+  zh: '在 Web GUI 里加入「强刷界面」和「重启 Harness」：会话头右上角两个图标按钮（排在原有按钮左侧）、侧边栏两个入口，另有设置页区块显示 Host 版本、pid 与运行时长。强刷先清 CacheStorage 与 Service Worker 再整页重载；重启带两步确认，经 DSH Desktop 的重启桥执行，非桌面端禁用。'
 tarball: https://github.com/ccccwwwxx/dsh-gui-control/releases/latest/download/dsh-gui-control.tgz
